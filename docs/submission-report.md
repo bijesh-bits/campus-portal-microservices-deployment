@@ -88,11 +88,12 @@ docker-compose up --build
   - logs
 
 ## 12. GitHub Links
-- Student Service repo:
-- Course Service repo:
-- Enrollment Service repo:
-- API Gateway repo:
-- Optional orchestration repo:
+- Student Service repo: https://github.com/bijesh-bits/campus-portal-student-service
+- Course Service repo: https://github.com/bijesh-bits/campus-portal-course-service
+- Enrollment Service repo: https://github.com/bijesh-bits/campus-portal-enrollment-service
+- API Gateway repo: https://github.com/bijesh-bits/campus-portal-api-gateway
+- Web UI repo: https://github.com/bijesh-bits/campus-portal-web-ui
+- Orchestration & Deployment repo: https://github.com/bijesh-bits/campus-portal-microservices-deployment
 
 ## 13. Final Checklist
 - [ ] Minimum 3 services
